@@ -40,9 +40,13 @@ You can browse the folders to find the code you're interested in. Each file is n
 
 ### Cloning the Repository
 
-To clone this repository to your computer:
+3. Open index.html in your web browser to view the portfolio:
+   ```bash
+   git clone https://github.com/your-username/sololearn-code-snippets.git
+   
+### Contributing
+Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository, make your changes, and submit a pull request.
 
-```bash
-  git clone https://github.com/your-username/sololearn-code-snippets.git
-
+### License
+This project is licensed under the MIT License 
 
