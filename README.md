@@ -18,20 +18,20 @@ Here you'll find various code snippets and solutions from my SoloLearn learning 
 ## Structure
 
 The repository is organized by programming language. Each language has its own folder, and within each folder, the code is categorized by topic.
-sololearn-code-snippets/
-├── Python/
-│ ├── Basics/
-│ ├── Intermediate/
-│ └── Advanced/
-├── JavaScript/
-│ ├── Basics/
-│ ├── Intermediate/
-│ └── Advanced/
-├── C++/
-│ ├── Basics/
-│ ├── Intermediate/
-│ └── Advanced/
-└── ... (Other Languages)
+sololearn-code-snippets/ <br>
+├── Python/ <br>
+│ ├── Basics/ <br>
+│ ├── Intermediate/ <br>
+│ └── Advanced/ <br>
+├── JavaScript/ <br>
+│ ├── Basics/ <br>
+│ ├── Intermediate/ <br>
+│ └── Advanced/ <br>
+├── C++/ <br>
+│ ├── Basics/ <br>
+│ ├── Intermediate/  <br>
+│ └── Advanced/ <br>
+└── ... (Other Languages) <br>
 
 
 ## Usage
